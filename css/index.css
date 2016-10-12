@@ -38,7 +38,8 @@ a.menu-link:hover, a.menu-link:visited a.menu-link:active, a.menu-link-now:hover
     text-indent: 1em;
     width: 100%;
 }
-.image-text p {font-size: 10px; font-weight: bold; color: #bbb;}
+.image-text p {display:inline; font-size: 10px; font-weight: bold; color: #bbb;}
+.hot-tag {font-size: 10px; font-weight: bold; color: #ed5d04; float:right; margin-right: 1em;}
 
 #about-content {padding: 1em 0 1em 0; text-align: left; position: relative; margin-bottom: 185px;}
 .me-image {float:left; width: 200px;}
