@@ -2,10 +2,11 @@
 /* CSS Document */
 
 /* content style */
+html {background-color: #000;}
 /* body css */
-.black-body {background:#000; text-align: center; min-height: 1200px;}
+.black-body {background-color:#000; text-align: center; min-height: 1200px;}
 /* main content */
-#page {background: #000; max-width: 900px; min-width: 400px; position:relative; margin: 0 auto;}
+#page {background-color: #000; max-width: 900px; min-width: 400px; position:relative; margin: 0 auto;}
 
 /* header */
 #header {
